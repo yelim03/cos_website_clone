@@ -1,2 +1,2 @@
-# website_clone
-클론코딩 포트폴리오
+# cos_website_clone
+코스 웹사이트 클론코딩
